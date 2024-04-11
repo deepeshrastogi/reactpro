@@ -1,8 +1,8 @@
-import Form from "./components/Form";
+import StateChange from "./components/StateChange";
 function App() {
   return (
     <div className="App">
-      <Form />
+      <StateChange />
     </div>
   );
 }
